@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Plants_analytics" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
